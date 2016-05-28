@@ -1,0 +1,19 @@
+{
+  "name": "mdltodo01",
+  "version": "0.0.1",
+  "description": "describe your module here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:0ur0rg/mdltodo01.git"
+  },
+  "author": "Dude Awap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0ur0rg/mdltodo01/issues"
+  },
+  "homepage": "http://0ur0rg.github.io/mdltodo01"
+}
